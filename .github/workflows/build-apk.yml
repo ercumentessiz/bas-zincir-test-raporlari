@@ -1,0 +1,50 @@
+name: APK Derle
+
+permissions:
+  contents: write
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodu al
+        uses: actions/checkout@v4
+
+      - name: JDK 17 kur
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      # google-services.json'ı Firebase konsolundan indirip
+      # GitHub reposunda Settings > Secrets > Actions altına
+      # GOOGLE_SERVICES_JSON adıyla (dosya içeriğini base64'e çevirip) ekleyin.
+      - name: google-services.json oluştur
+        run: echo "${{ secrets.GOOGLE_SERVICES_JSON_BASE64 }}" | base64 -d > app/google-services.json
+
+      - name: Gradle kur
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Debug APK derle
+        run: gradle assembleDebug --stacktrace
+
+      - name: APK'yı artifact olarak yükle
+        uses: actions/upload-artifact@v4
+        with:
+          name: BasZincirTestRaporu-debug-apk
+          path: app/build/outputs/apk/debug/app-debug.apk
+
+      - name: Release oluştur ve APK'yı ekle
+        if: github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: build-${{ github.run_number }}
+          name: Otomatik Derleme #${{ github.run_number }}
+          files: app/build/outputs/apk/debug/app-debug.apk
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
