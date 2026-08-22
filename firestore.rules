@@ -1,0 +1,32 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function yetkiliMi() {
+      return request.auth != null && request.auth.token.email in [
+        'baszincir@gmail.com',
+        'baszincirosb@gmail.com',
+        'pazarlama2@gmail.com',
+        'pdrercumentessiz@gmail.com'
+      ];
+    }
+
+    match /urunler/{urunId} {
+      allow read, write: if yetkiliMi();
+    }
+
+    match /musteriler/{musteriId} {
+      allow read, write: if yetkiliMi();
+    }
+
+    match /raporlar/{raporId} {
+      allow read, write: if yetkiliMi();
+    }
+
+    // Tanımlanmamış her şey kapalı.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

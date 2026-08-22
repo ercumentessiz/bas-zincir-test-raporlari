@@ -1,0 +1,1776 @@
+[
+  {
+    "id": "10-mm-g-80-zincir",
+    "sourceFile": "10_MM_G-80_ZİNCİR_TEST_RAPORU",
+    "kategori": "G80",
+    "parcaAdiSatir1": "Ø 10x30  MM",
+    "parcaAdiSatir2": "ÇELİK ZİNCİR",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 10,
+        "numune": [
+          9.8,
+          9.8,
+          9.8
+        ]
+      },
+      "t": {
+        "urun": 30,
+        "numune": [
+          30,
+          30,
+          30
+        ]
+      },
+      "b1": {
+        "urun": 13.5,
+        "numune": [
+          14,
+          14,
+          14
+        ]
+      },
+      "b2": {
+        "urun": 36,
+        "numune": [
+          33.6,
+          33.6,
+          33.6
+        ]
+      }
+    },
+    "ilkBoyu": 28,
+    "sonBoyu": 30,
+    "denemeYuku": 78.5,
+    "malzeme": "20MnB4 (1.5525)",
+    "standart": "10X28 MM ÇELİK ZİNCİR",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          125.85,
+          126.5,
+          126.25
+        ]
+      },
+      {
+        "degerler": [
+          126.3,
+          126.3,
+          126.45
+        ]
+      },
+      {
+        "degerler": [
+          127,
+          126.5,
+          126.65
+        ]
+      }
+    ],
+    "sertlikTablosu": [
+      {
+        "degerler": [
+          385,
+          386,
+          385
+        ]
+      },
+      {
+        "degerler": [
+          385,
+          384,
+          385
+        ]
+      },
+      {
+        "degerler": [
+          384,
+          385,
+          384
+        ]
+      }
+    ],
+    "sertlikBirimi": "Hv / HRC",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "10 mm G-80 Zincir",
+    "kopmaYukuTekli": 126.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,18-0,23",
+          "Mn: 0,90-1.20",
+          "S  : 0.25",
+          "Mo:0,30",
+          "Ni:0,40",
+          "Mn:0,10"
+        ]
+      },
+      {
+        "hucreler": [
+          "Cu:0,25",
+          "P  : 0,025",
+          "Cr : 0.3",
+          "Fe :",
+          "Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10-mm-kalibre-zincir",
+    "sourceFile": "10_MM_KALİBRE_ZİNCİR_TEST_RAPORU",
+    "kategori": "KALIBRE",
+    "parcaAdiSatir1": "Ø 10  MM",
+    "parcaAdiSatir2": "DIN 766",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 10,
+        "numune": [
+          9.8,
+          9.8,
+          9.8
+        ]
+      },
+      "t": {
+        "urun": 28,
+        "numune": [
+          27.7,
+          27.8,
+          27.7
+        ]
+      },
+      "b1": {
+        "urun": 12,
+        "numune": [
+          14,
+          14,
+          14
+        ]
+      },
+      "b2": {
+        "urun": 36,
+        "numune": [
+          "33.6",
+          33.6,
+          33.6
+        ]
+      }
+    },
+    "ilkBoyu": 27.6,
+    "sonBoyu": 28,
+    "denemeYuku": 32,
+    "malzeme": "SAE 1008",
+    "standart": "DIN 766  NORM",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          7,
+          6.9,
+          7.1,
+          7.15,
+          6.95
+        ]
+      }
+    ],
+    "sertlikTablosu": [],
+    "sertlikBirimi": "",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "10 mm Kalibre Zincir",
+    "kopmaYukuTekli": 50.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,06",
+          "Mn: 0,43",
+          "S  : 0.0011",
+          "Mo:0,30",
+          "Si:0,12",
+          "Cu:0,22"
+        ]
+      },
+      {
+        "hucreler": [
+          "Fe:Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10-ton-ceki-zinciri",
+    "sourceFile": "10_TON_ÇEKİ_ZİNCİRİ_TEST_RAPORU",
+    "kategori": "CEKI",
+    "parcaAdiSatir1": "Ø 10x30  MM",
+    "parcaAdiSatir2": "GRADE -80",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 10,
+        "numune": [
+          9.8,
+          9.8,
+          9.8
+        ]
+      },
+      "t": {
+        "urun": 30,
+        "numune": [
+          30,
+          30,
+          30
+        ]
+      },
+      "b1": {
+        "urun": 13.5,
+        "numune": [
+          14,
+          14,
+          14
+        ]
+      },
+      "b2": {
+        "urun": 36,
+        "numune": [
+          33.6,
+          33.6,
+          33.6
+        ]
+      }
+    },
+    "ilkBoyu": 29,
+    "sonBoyu": 30,
+    "denemeYuku": 78.5,
+    "malzeme": "20MnB4 (1.5525)",
+    "standart": "10 MM G-80  ZİNCİR",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          134.5,
+          134,
+          133
+        ]
+      },
+      {
+        "degerler": [
+          135,
+          135.5,
+          135
+        ]
+      },
+      {
+        "degerler": [
+          135,
+          136,
+          135.5
+        ]
+      }
+    ],
+    "sertlikTablosu": [
+      {
+        "degerler": [
+          385,
+          386,
+          385
+        ]
+      },
+      {
+        "degerler": [
+          385,
+          384,
+          385
+        ]
+      },
+      {
+        "degerler": [
+          384,
+          385,
+          384
+        ]
+      }
+    ],
+    "sertlikBirimi": "Hv / HRC",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "10 Ton Çeki Zinciri",
+    "kopmaYukuTekli": 126.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,18-0,23",
+          "Mn: 0,90-1.20",
+          "S  : 0.25",
+          "Mo:0,30",
+          "Ni:0,40",
+          "Mn:0,10"
+        ]
+      },
+      {
+        "hucreler": [
+          "Cu:0,25",
+          "P  : 0,025",
+          "Cr : 0.3",
+          "Fe :",
+          "Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12-mm-kalibre-zincir",
+    "sourceFile": "12_MM_KALİBRE_ZİNCİR_TEST_RAPORU",
+    "kategori": "KALIBRE",
+    "parcaAdiSatir1": "Ø 12X36 MM KALİBRE ZİNCİR",
+    "parcaAdiSatir2": "",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 12,
+        "numune": [
+          11.8,
+          11.8,
+          11.8
+        ]
+      },
+      "t": {
+        "urun": 36,
+        "numune": [
+          36.2,
+          36.2,
+          36.3
+        ]
+      },
+      "b1": {
+        "urun": 16,
+        "numune": [
+          18,
+          18,
+          18
+        ]
+      },
+      "b2": {
+        "urun": 47,
+        "numune": [
+          43.6,
+          43.6,
+          43.6
+        ]
+      }
+    },
+    "ilkBoyu": 35.5,
+    "sonBoyu": 36,
+    "denemeYuku": 44,
+    "malzeme": "SAE 1008",
+    "standart": "DIN 766  NORM",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          12.9,
+          12.95,
+          13,
+          12.85,
+          13
+        ]
+      }
+    ],
+    "sertlikTablosu": [],
+    "sertlikBirimi": "",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "12 mm Kalibre Zincir",
+    "kopmaYukuTekli": 70.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,06",
+          "Mn: 0,43",
+          "S  : 0.0011",
+          "Mo:0,30",
+          "Si:0,12",
+          "Cu:0,22"
+        ]
+      },
+      {
+        "hucreler": [
+          "Fe:Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "13-mm-g-80-zincir",
+    "sourceFile": "13_MM_G-80_ZİNCİR_TEST_RAPORU",
+    "kategori": "G80",
+    "parcaAdiSatir1": "Ø 13x39  MM",
+    "parcaAdiSatir2": "GRADE -80",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 13,
+        "numune": [
+          12.8,
+          12.8,
+          12.8
+        ]
+      },
+      "t": {
+        "urun": 39,
+        "numune": [
+          39.2,
+          39.2,
+          39.2
+        ]
+      },
+      "b1": {
+        "urun": 16.9,
+        "numune": [
+          18,
+          18,
+          18
+        ]
+      },
+      "b2": {
+        "urun": 46.8,
+        "numune": [
+          43.6,
+          43.6,
+          43.6
+        ]
+      }
+    },
+    "ilkBoyu": 38,
+    "sonBoyu": 39,
+    "denemeYuku": 133,
+    "malzeme": "20MnB4 (1.5525)",
+    "standart": "13  MM   G 80  ZİNCİR",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          234.9,
+          235.75,
+          235.5
+        ]
+      },
+      {
+        "degerler": [
+          235.4,
+          235.45,
+          236
+        ]
+      },
+      {
+        "degerler": [
+          235.9,
+          235.55,
+          235.55
+        ]
+      }
+    ],
+    "sertlikTablosu": [
+      {
+        "degerler": [
+          385,
+          384,
+          385
+        ]
+      },
+      {
+        "degerler": [
+          384,
+          385,
+          385
+        ]
+      },
+      {
+        "degerler": [
+          384,
+          385,
+          384
+        ]
+      }
+    ],
+    "sertlikBirimi": "Hv / HRC",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "13 mm G-80 Zincir",
+    "kopmaYukuTekli": 212.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,18-0,23",
+          "Mn: 0,90-1.20",
+          "S  : 0.25",
+          "Mo:0,30",
+          "Ni:0,40",
+          "Mn:0,10"
+        ]
+      },
+      {
+        "hucreler": [
+          "Cu:0,25",
+          "P  : 0,025",
+          "Cr : 0.3",
+          "Fe :",
+          "Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "13-mm-kalibre-zincir",
+    "sourceFile": "13_MM_KALİBRE_ZİNCİR_TEST_RAPORU",
+    "kategori": "KALIBRE",
+    "parcaAdiSatir1": "Ø 13x36  MM",
+    "parcaAdiSatir2": "DIN 766 NORM",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 13,
+        "numune": [
+          12.8,
+          12.8,
+          12.8
+        ]
+      },
+      "t": {
+        "urun": 36,
+        "numune": [
+          36,
+          36,
+          36
+        ]
+      },
+      "b1": {
+        "urun": 15.6,
+        "numune": [
+          17,
+          17,
+          17
+        ]
+      },
+      "b2": {
+        "urun": 47,
+        "numune": [
+          42.6,
+          42.6,
+          42.6
+        ]
+      }
+    },
+    "ilkBoyu": 35,
+    "sonBoyu": 36,
+    "denemeYuku": 7.5,
+    "malzeme": "SAE1008",
+    "standart": "DIN  766 NORMU",
+    "kopmaYukuTablosu": [],
+    "sertlikTablosu": [],
+    "sertlikBirimi": "",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "13 mm Kalibre Zincir",
+    "kopmaYukuTekli": 15.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,18-0,23",
+          "Mn: 0,90-1.20",
+          "S  : 0.25",
+          "Mo:0,30",
+          "Ni:0,40",
+          "Mn:0,10"
+        ]
+      },
+      {
+        "hucreler": [
+          "Cu:0,25",
+          "P  : 0,025",
+          "Cr : 0.3",
+          "Fe :",
+          "Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "14-mm-kalibre-zincir",
+    "sourceFile": "14_MM_KALİBRE_ZİNCİR_TEST_RAPORU",
+    "kategori": "KALIBRE",
+    "parcaAdiSatir1": "Ø 14X41  MM",
+    "parcaAdiSatir2": "DIN 766",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 14,
+        "numune": [
+          13.8,
+          13.8,
+          13.8
+        ]
+      },
+      "t": {
+        "urun": 41,
+        "numune": [
+          41,
+          41,
+          41
+        ]
+      },
+      "b1": {
+        "urun": 16.8,
+        "numune": [
+          19,
+          19,
+          19
+        ]
+      },
+      "b2": {
+        "urun": 44.8,
+        "numune": [
+          47,
+          47,
+          47
+        ]
+      }
+    },
+    "ilkBoyu": 40,
+    "sonBoyu": 41,
+    "denemeYuku": 63,
+    "malzeme": "SAE 1008",
+    "standart": "DIN 766  NORM",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          13.5,
+          13.45,
+          13.55,
+          13.5,
+          13.55
+        ]
+      }
+    ],
+    "sertlikTablosu": [],
+    "sertlikBirimi": "",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "14 mm Kalibre Zincir",
+    "kopmaYukuTekli": 100.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,06",
+          "Mn: 0,43",
+          "S  : 0.0011",
+          "Mo:0,30",
+          "Si:0,12",
+          "Cu:0,22"
+        ]
+      },
+      {
+        "hucreler": [
+          "Fe:Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "16-mm-g-80-zincir",
+    "sourceFile": "16_MM_G-80_ZİNCİR_TEST_RAPORU",
+    "kategori": "G80",
+    "parcaAdiSatir1": "Ø 16X45  MM",
+    "parcaAdiSatir2": "GRADE-80",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 16,
+        "numune": [
+          15.8,
+          15.8,
+          15.8
+        ]
+      },
+      "t": {
+        "urun": 45,
+        "numune": [
+          "48.1",
+          48.1,
+          48.2
+        ]
+      },
+      "b1": {
+        "urun": 20.8,
+        "numune": [
+          21.5,
+          21.6,
+          21.6
+        ]
+      },
+      "b2": {
+        "urun": "52.8",
+        "numune": [
+          "53.5",
+          "53.6",
+          "53.6"
+        ]
+      }
+    },
+    "ilkBoyu": 44,
+    "sonBoyu": 45,
+    "denemeYuku": 125,
+    "malzeme": "20MnB4 (1.5525)",
+    "standart": "DIN 5684",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          270,
+          269,
+          271
+        ]
+      },
+      {
+        "degerler": [
+          270,
+          269,
+          271
+        ]
+      },
+      {
+        "degerler": [
+          271,
+          268,
+          270
+        ]
+      }
+    ],
+    "sertlikTablosu": [
+      {
+        "degerler": [
+          385,
+          388,
+          388
+        ]
+      },
+      {
+        "degerler": [
+          389,
+          410,
+          395
+        ]
+      },
+      {
+        "degerler": [
+          394,
+          395,
+          400
+        ]
+      }
+    ],
+    "sertlikBirimi": "Hv / HRC",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "16 mm G-80 Zincir",
+    "kopmaYukuTekli": 200.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,18-0,23",
+          "Mn: 0,90-1.20",
+          "S  : 0.25",
+          "Mo:0,30",
+          "Ni:0,40",
+          "Mn:0,10"
+        ]
+      },
+      {
+        "hucreler": [
+          "Cu:0,25",
+          "P  : 0,025",
+          "Cr : 0.3",
+          "Fe :",
+          "Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "16-mm-kalibre-zincir",
+    "sourceFile": "16_MM_KALİBRE_ZİNCİR_TEST_RAPORU",
+    "kategori": "KALIBRE",
+    "parcaAdiSatir1": "Ø 16  MM",
+    "parcaAdiSatir2": "DIN 766",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 16,
+        "numune": [
+          15.8,
+          15.8,
+          15.8
+        ]
+      },
+      "t": {
+        "urun": 45,
+        "numune": [
+          45.2,
+          45.2,
+          45.2
+        ]
+      },
+      "b1": {
+        "urun": 19.2,
+        "numune": [
+          21,
+          21,
+          21
+        ]
+      },
+      "b2": {
+        "urun": 58,
+        "numune": [
+          53,
+          53,
+          53
+        ]
+      }
+    },
+    "ilkBoyu": 44,
+    "sonBoyu": 45,
+    "denemeYuku": 80,
+    "malzeme": "SAE 1008",
+    "standart": "DIN 766  NORM",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          18.65,
+          18.7,
+          18.6,
+          18.75,
+          18.5
+        ]
+      }
+    ],
+    "sertlikTablosu": [],
+    "sertlikBirimi": "",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "16 mm Kalibre Zincir",
+    "kopmaYukuTekli": 125.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,06",
+          "Mn: 0,43",
+          "S  : 0.0011",
+          "Mo:0,30",
+          "Si:0,12",
+          "Cu:0,22"
+        ]
+      },
+      {
+        "hucreler": [
+          "Fe:Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18-mm-g-80-zincir",
+    "sourceFile": "18_MM_G-80_ZİNCİR_TEST_RAPORU",
+    "kategori": "G80",
+    "parcaAdiSatir1": "Ø 18x64 MM",
+    "parcaAdiSatir2": "DIN 22252-2",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 18,
+        "numune": [
+          17.8,
+          17.8,
+          17.8
+        ]
+      },
+      "t": {
+        "urun": 64,
+        "numune": [
+          64,
+          64,
+          64
+        ]
+      },
+      "b1": {
+        "urun": 21,
+        "numune": [
+          23,
+          23,
+          23
+        ]
+      },
+      "b2": {
+        "urun": 57,
+        "numune": [
+          59,
+          59,
+          59
+        ]
+      }
+    },
+    "ilkBoyu": 63,
+    "sonBoyu": 64,
+    "denemeYuku": 305,
+    "malzeme": "20MnB4 1.5525",
+    "standart": "DIN 22252-2",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          44,
+          44.5,
+          44
+        ]
+      },
+      {
+        "degerler": [
+          44,
+          44.6,
+          44.5
+        ]
+      },
+      {
+        "degerler": [
+          44,
+          44.5,
+          44
+        ]
+      }
+    ],
+    "sertlikTablosu": [
+      {
+        "degerler": [
+          39,
+          40,
+          39
+        ]
+      },
+      {
+        "degerler": [
+          40,
+          41,
+          40
+        ]
+      },
+      {
+        "degerler": [
+          39,
+          40,
+          40
+        ]
+      }
+    ],
+    "sertlikBirimi": "HRC",
+    "kopmaBirimi": "TON",
+    "aciklamaEk": "",
+    "urunAdi": "18 mm G-80 Zincir",
+    "kopmaYukuTekli": 407.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,18-0,23",
+          "Mn: 0,90-1.2",
+          "S  : 0.025",
+          "Mo:0,30",
+          "Cu:Max 0,25"
+        ]
+      },
+      {
+        "hucreler": [
+          "Si: Max 0,30",
+          "P  : 0,025",
+          "Cr :",
+          "Max 0,30",
+          "Fe :",
+          "Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3-ton-ceki-zinciri",
+    "sourceFile": "3_TON_ÇEKİ_ZİNCİRİ_TEST_RAPORU",
+    "kategori": "CEKI",
+    "parcaAdiSatir1": "Ø 8x24  MM",
+    "parcaAdiSatir2": "GRADE -80",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 8,
+        "numune": [
+          7.8,
+          7.8,
+          7.8
+        ]
+      },
+      "t": {
+        "urun": 24,
+        "numune": [
+          24,
+          24,
+          24
+        ]
+      },
+      "b1": {
+        "urun": 10.4,
+        "numune": [
+          10.8,
+          10.8,
+          10.8
+        ]
+      },
+      "b2": {
+        "urun": 28.8,
+        "numune": [
+          26.4,
+          26.4,
+          26.4
+        ]
+      }
+    },
+    "ilkBoyu": 23.5,
+    "sonBoyu": 24,
+    "denemeYuku": 50.3,
+    "malzeme": "20MnB4 (1.5525)",
+    "standart": "8  MM   G 80  ZİNCİR",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          89,
+          88,
+          89
+        ]
+      },
+      {
+        "degerler": [
+          88,
+          87,
+          87
+        ]
+      },
+      {
+        "degerler": [
+          88,
+          89,
+          89
+        ]
+      }
+    ],
+    "sertlikTablosu": [
+      {
+        "degerler": [
+          39,
+          39,
+          39
+        ]
+      },
+      {
+        "degerler": [
+          38,
+          39,
+          39
+        ]
+      },
+      {
+        "degerler": [
+          38,
+          39,
+          39
+        ]
+      }
+    ],
+    "sertlikBirimi": "Hv / HRC",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "3 Ton Çeki Zinciri",
+    "kopmaYukuTekli": 80.4,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,18-0,23",
+          "Mn: 0,90-1.20",
+          "S  : 0.25",
+          "Mo:0,30",
+          "Ni:0,40",
+          "Mn:0,10"
+        ]
+      },
+      {
+        "hucreler": [
+          "Cu:0,25",
+          "P  : 0,025",
+          "Cr : 0.3",
+          "Fe :",
+          "Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4-mm-kalibre-zincir",
+    "sourceFile": "4_MM_KALİBRE_ZİNCİR_TEST_RAPORU",
+    "kategori": "KALIBRE",
+    "parcaAdiSatir1": "Ø 4  MM",
+    "parcaAdiSatir2": "DIN 766",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 4,
+        "numune": [
+          4,
+          4,
+          4
+        ]
+      },
+      "t": {
+        "urun": 16,
+        "numune": [
+          16,
+          16,
+          16
+        ]
+      },
+      "b1": {
+        "urun": 4.8,
+        "numune": [
+          4.8,
+          4.8,
+          4.8
+        ]
+      },
+      "b2": {
+        "urun": 13.6,
+        "numune": [
+          13.6,
+          13.6,
+          13.6
+        ]
+      }
+    },
+    "ilkBoyu": 15.5,
+    "sonBoyu": 16,
+    "denemeYuku": 5,
+    "malzeme": "SAE 1008",
+    "standart": "DIN 766  NORM",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          910,
+          920,
+          910,
+          900,
+          930
+        ]
+      }
+    ],
+    "sertlikTablosu": [],
+    "sertlikBirimi": "",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "4 mm Kalibre Zincir",
+    "kopmaYukuTekli": 8.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,06",
+          "Mn: 0,43",
+          "S  : 0.0011",
+          "Mo:0,30",
+          "Si:0,12",
+          "Cu:0,22"
+        ]
+      },
+      {
+        "hucreler": [
+          "Fe:Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5-mm-kalibre-zincir",
+    "sourceFile": "5_MM_KALİBRE_ZİNCİR_TEST_RAPORU",
+    "kategori": "KALIBRE",
+    "parcaAdiSatir1": "Ø 5  MM",
+    "parcaAdiSatir2": "DIN 766",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 5,
+        "numune": [
+          5,
+          5,
+          5
+        ]
+      },
+      "t": {
+        "urun": 18.5,
+        "numune": [
+          18.45,
+          18.5,
+          18.5
+        ]
+      },
+      "b1": {
+        "urun": 6,
+        "numune": [
+          6.3,
+          6.3,
+          6.3
+        ]
+      },
+      "b2": {
+        "urun": 17,
+        "numune": [
+          16.3,
+          16.3,
+          16.3
+        ]
+      }
+    },
+    "ilkBoyu": 18.3,
+    "sonBoyu": 18.5,
+    "denemeYuku": 8,
+    "malzeme": "SAE 1008",
+    "standart": "DIN 766  NORM",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          2.15,
+          2.1,
+          2.15,
+          2.1,
+          2.1
+        ]
+      }
+    ],
+    "sertlikTablosu": [],
+    "sertlikBirimi": "",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "5 mm Kalibre Zincir",
+    "kopmaYukuTekli": 12.5,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,06",
+          "Mn: 0,43",
+          "S  : 0.0011",
+          "Mo:0,30",
+          "Si:0,12",
+          "Cu:0,22"
+        ]
+      },
+      {
+        "hucreler": [
+          "Fe:Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5-ton-ceki-zinciri",
+    "sourceFile": "5_TON_ÇEKİ_ZİNCİRİ_TEST_RAPORU",
+    "kategori": "CEKI",
+    "parcaAdiSatir1": "Ø 8x24  MM",
+    "parcaAdiSatir2": "GRADE -80",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 8,
+        "numune": [
+          7.8,
+          7.8,
+          7.8
+        ]
+      },
+      "t": {
+        "urun": 24,
+        "numune": [
+          24,
+          24,
+          24
+        ]
+      },
+      "b1": {
+        "urun": 10.4,
+        "numune": [
+          10.8,
+          10.8,
+          10.8
+        ]
+      },
+      "b2": {
+        "urun": 28.8,
+        "numune": [
+          26.4,
+          26.4,
+          26.4
+        ]
+      }
+    },
+    "ilkBoyu": 23.5,
+    "sonBoyu": 24,
+    "denemeYuku": 50.3,
+    "malzeme": "20MnB4 (1.5525)",
+    "standart": "8 MM G-80 ZİNCİR",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          88,
+          89,
+          89
+        ]
+      },
+      {
+        "degerler": [
+          88,
+          89,
+          87
+        ]
+      },
+      {
+        "degerler": [
+          88,
+          89,
+          89
+        ]
+      }
+    ],
+    "sertlikTablosu": [
+      {
+        "degerler": [
+          39,
+          39,
+          39
+        ]
+      },
+      {
+        "degerler": [
+          38,
+          39,
+          39
+        ]
+      },
+      {
+        "degerler": [
+          38,
+          39,
+          39
+        ]
+      }
+    ],
+    "sertlikBirimi": "Hv / HRC",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "5 Ton Çeki Zinciri",
+    "kopmaYukuTekli": 80.4,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,18-0,23",
+          "Mn: 0,90-1.20",
+          "S  : 0.25",
+          "Mo:0,30",
+          "Ni:0,40",
+          "Mn:0,10"
+        ]
+      },
+      {
+        "hucreler": [
+          "Cu:0,25",
+          "P  : 0,025",
+          "Cr : 0.3",
+          "Fe :",
+          "Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6-mm-g-80-zincir",
+    "sourceFile": "6_MM_G-80_ZİNCİR_TEST_RAPORU",
+    "kategori": "G80",
+    "parcaAdiSatir1": "Ø 6X18  MM",
+    "parcaAdiSatir2": "GRADE -80",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 6,
+        "numune": [
+          5.8,
+          5.8,
+          5.8
+        ]
+      },
+      "t": {
+        "urun": 18,
+        "numune": [
+          18.5,
+          18.5,
+          18.5
+        ]
+      },
+      "b1": {
+        "urun": 7.8,
+        "numune": [
+          9,
+          9,
+          9
+        ]
+      },
+      "b2": {
+        "urun": 19.8,
+        "numune": [
+          21,
+          21,
+          21
+        ]
+      }
+    },
+    "ilkBoyu": 18,
+    "sonBoyu": 18.5,
+    "denemeYuku": 28.3,
+    "malzeme": "20MnB4 (1.5525)",
+    "standart": "8  MM   G 80  ZİNCİR",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          49.5,
+          49.5,
+          49.5
+        ]
+      },
+      {
+        "degerler": [
+          49.2,
+          49.0,
+          49.39
+        ]
+      },
+      {
+        "degerler": [
+          49.5,
+          49.0,
+          49.4
+        ]
+      }
+    ],
+    "sertlikTablosu": [
+      {
+        "degerler": [
+          38,
+          39,
+          39
+        ]
+      },
+      {
+        "degerler": [
+          39,
+          39,
+          38
+        ]
+      },
+      {
+        "degerler": [
+          39,
+          38,
+          39
+        ]
+      }
+    ],
+    "sertlikBirimi": "Hv / HRC",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "6 mm G-80 Zincir",
+    "kopmaYukuTekli": 45.2,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,18-0,23",
+          "Mn: 0,90-1.20",
+          "S : 0.25",
+          "Mo:0,30",
+          "Ni:0,40",
+          "Mn:0,10"
+        ]
+      },
+      {
+        "hucreler": [
+          "Cu:0,25",
+          "P : 0,025",
+          "Cr : 0.3",
+          "Fe : Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6-mm-kalibre-zincir",
+    "sourceFile": "6_MM_KALİBRE_ZİNCİR_TEST_RAPORU",
+    "kategori": "KALIBRE",
+    "parcaAdiSatir1": "Ø 6  MM",
+    "parcaAdiSatir2": "DIN 766",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 6,
+        "numune": [
+          6,
+          6,
+          6
+        ]
+      },
+      "t": {
+        "urun": 18.5,
+        "numune": [
+          18.45,
+          18.5,
+          18.5
+        ]
+      },
+      "b1": {
+        "urun": 7.2,
+        "numune": [
+          7.5,
+          7.5,
+          7.6
+        ]
+      },
+      "b2": {
+        "urun": 20.4,
+        "numune": [
+          19.5,
+          19.5,
+          19.6
+        ]
+      }
+    },
+    "ilkBoyu": 18.2,
+    "sonBoyu": 18.5,
+    "denemeYuku": 10,
+    "malzeme": "SAE 1008",
+    "standart": "DIN 766  NORM",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          2.7,
+          2.75,
+          2.75,
+          2.745,
+          2.7
+        ]
+      }
+    ],
+    "sertlikTablosu": [],
+    "sertlikBirimi": "",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "6 mm Kalibre Zincir",
+    "kopmaYukuTekli": 16.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,06",
+          "Mn: 0,43",
+          "S  : 0.0011",
+          "Mo:0,30",
+          "Si:0,12",
+          "Cu:0,22"
+        ]
+      },
+      {
+        "hucreler": [
+          "Fe:Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8-mm-g-80-zincir",
+    "sourceFile": "8_MM_G-80_ZİNCİR_TEST_RAPORU",
+    "kategori": "G80",
+    "parcaAdiSatir1": "Ø 8x24  MM",
+    "parcaAdiSatir2": "ÇELİK ZİNCİR",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 8,
+        "numune": [
+          7.8,
+          7.8,
+          7.8
+        ]
+      },
+      "t": {
+        "urun": 24,
+        "numune": [
+          24,
+          24,
+          24
+        ]
+      },
+      "b1": {
+        "urun": 10.4,
+        "numune": [
+          10.8,
+          10.8,
+          10.8
+        ]
+      },
+      "b2": {
+        "urun": 28.8,
+        "numune": [
+          26.4,
+          26.4,
+          26.4
+        ]
+      }
+    },
+    "ilkBoyu": 23.5,
+    "sonBoyu": 24,
+    "denemeYuku": 50.3,
+    "malzeme": "20MnB4 (1.5525)",
+    "standart": "8X24 MM ÇELİK ZİNCİR",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          82.25,
+          81.9,
+          81.8
+        ]
+      },
+      {
+        "degerler": [
+          82,
+          81.7,
+          81.7
+        ]
+      },
+      {
+        "degerler": [
+          81.65,
+          81.55,
+          81.5
+        ]
+      }
+    ],
+    "sertlikTablosu": [
+      {
+        "degerler": [
+          38,
+          39,
+          39
+        ]
+      },
+      {
+        "degerler": [
+          39,
+          39,
+          38
+        ]
+      },
+      {
+        "degerler": [
+          39,
+          38,
+          39
+        ]
+      }
+    ],
+    "sertlikBirimi": "Hv / HRC",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "8 mm G-80 Zincir",
+    "kopmaYukuTekli": 80.4,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,18-0,23",
+          "Mn: 0,90-1.20",
+          "S  : 0.25",
+          "Mo:0,30",
+          "Ni:0,40",
+          "Mn:0,10"
+        ]
+      },
+      {
+        "hucreler": [
+          "Cu:0,25",
+          "P  : 0,025",
+          "Cr : 0.3",
+          "Fe :",
+          "Kalan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8-mm-kalibre-zincir",
+    "sourceFile": "8_MM_KALİBRE_ZİNCİR_TEST_RAPORU",
+    "kategori": "KALIBRE",
+    "parcaAdiSatir1": "Ø  8  MM",
+    "parcaAdiSatir2": "DIN 766",
+    "zincirOlculeri": {
+      "d": {
+        "urun": 8,
+        "numune": [
+          7.8,
+          7.8,
+          7.8
+        ]
+      },
+      "t": {
+        "urun": 24,
+        "numune": [
+          23.9,
+          23.9,
+          23.9
+        ]
+      },
+      "b1": {
+        "urun": 9.6,
+        "numune": [
+          10,
+          10,
+          10
+        ]
+      },
+      "b2": {
+        "urun": 27.2,
+        "numune": [
+          25.6,
+          25.6,
+          25.6
+        ]
+      }
+    },
+    "ilkBoyu": 23.7,
+    "sonBoyu": 24,
+    "denemeYuku": 20,
+    "malzeme": "SAE 1008",
+    "standart": "DIN 766  NORM",
+    "kopmaYukuTablosu": [
+      {
+        "degerler": [
+          5.35,
+          5.4,
+          5.3,
+          5.45,
+          5.35
+        ]
+      }
+    ],
+    "sertlikTablosu": [],
+    "sertlikBirimi": "",
+    "kopmaBirimi": "Ton/kn",
+    "aciklamaEk": "",
+    "urunAdi": "8 mm Kalibre Zincir",
+    "kopmaYukuTekli": 32.0,
+    "kimyasalAnalizTablosu": [
+      {
+        "hucreler": [
+          "C : 0,06",
+          "Mn: 0,43",
+          "S  : 0.0011",
+          "Mo:0,30",
+          "Cu:0,20"
+        ]
+      },
+      {
+        "hucreler": [
+          "Fe:Kalan"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031881983216",
+    "project_id": "bas-zincir-test-raporu",
+    "storage_bucket": "bas-zincir-test-raporu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031881983216:android:b95c088c1a918f1500ee35",
+        "android_client_info": {
+          "package_name": "com.baszincir.testraporu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-L-mU3cC282Gv5Qh7mdAczn7rT_ReN84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
